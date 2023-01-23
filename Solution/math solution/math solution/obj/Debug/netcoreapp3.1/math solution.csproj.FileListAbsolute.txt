@@ -1,0 +1,13 @@
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.AssemblyInfoInputs.cache
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.AssemblyInfo.cs
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.csproj.CoreCompileInputs.cache
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.exe
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.deps.json
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.runtimeconfig.json
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.runtimeconfig.dev.json
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.dll
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\bin\Debug\netcoreapp3.1\math solution.pdb
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.dll
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.pdb
+C:\Users\Ayşenur TURAN\Desktop\GitKursu\Solution\math solution\math solution\obj\Debug\netcoreapp3.1\math solution.genruntimeconfig.cache
